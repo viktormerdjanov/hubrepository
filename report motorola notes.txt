@@ -1,0 +1,3 @@
+Burst mode func. test
+1.Camera stopped working at all. Last thing that I did is probably Burst mode test. Nothing happened. After a while camera disappeared (black screen). 
+2. ~3 seconds delay between shots
